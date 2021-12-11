@@ -7,13 +7,36 @@
     }
   ],
   "history": [
-    
+    {
+      "userId": 1,
+      "bookId": 2,
+      "dateStarted": "2021-11-08",
+      "dateCompleted": "2021-11-12",
+      "entry": "Loved this book. Hated Tamlin and loved Rhysand immediately. I'm a sucker for a night court fairy. ",
+      "reRead": true,
+      "id": 2
+    }
   ],
-  "tbr": [
-    
-  ],
+  "tbr": [],
   "posts": [],
   "books": [
-    
+    {
+      "name": "Harry Potter and the Chamber of Secrets",
+      "author": [
+        "J.K. Rowling"
+      ],
+      "description": "With its message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+      "apiBookId": "5iTebBW-w7QC",
+      "id": 1
+    },
+    {
+      "name": "A Court of Thorns and Roses",
+      "author": [
+        "Sarah J. Maas"
+      ],
+      "description": "The sexy, action-packed first book in the #1 New York Times bestselling Court of Thorns and Roses series from Sarah J. Maas.",
+      "apiBookId": "Qu9BzQEACAAJ",
+      "id": 2
+    }
   ]
 }
